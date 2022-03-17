@@ -1,0 +1,21 @@
+.btn{
+    color: white;
+    background-color: teal;
+}
+
+.inputdiv{
+    margin: 60px 10px;
+}
+
+.list{
+    /* border: 3px solid teal; */
+    width: 700px;
+    margin: auto;
+    background-color: lightcyan;
+
+}
+
+.item{
+margin: 12px 0px;
+/* border: 1px solid black; */
+}
